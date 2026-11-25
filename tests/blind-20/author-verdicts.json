@@ -1,0 +1,127 @@
+{
+  "judged": "2026-11-26",
+  "method": "The author judged all 20 pairs blind in a fresh A/B shuffle (different from the AI judge's), picking the reply he would actually send, or a tie when both were fine. He had already read the AI judge's verdicts.",
+  "pairs": [
+    {
+      "request": 1,
+      "skill_was": "A",
+      "pick": "A",
+      "result": "won"
+    },
+    {
+      "request": 2,
+      "skill_was": "A",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 3,
+      "skill_was": "B",
+      "pick": "B",
+      "result": "won"
+    },
+    {
+      "request": 4,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie",
+      "note_lightly_edited": "B sounds ok, but A is kinda 'proper', so I call this tie: a proper caption is what people post as well. If you want a casual caption, B is the clear winner."
+    },
+    {
+      "request": 5,
+      "skill_was": "B",
+      "pick": "B",
+      "result": "won"
+    },
+    {
+      "request": 6,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 7,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 8,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 9,
+      "skill_was": "B",
+      "pick": "B",
+      "result": "won"
+    },
+    {
+      "request": 10,
+      "skill_was": "B",
+      "pick": "B",
+      "result": "won"
+    },
+    {
+      "request": 11,
+      "skill_was": "B",
+      "pick": "B",
+      "result": "won"
+    },
+    {
+      "request": 12,
+      "skill_was": "A",
+      "pick": "A",
+      "result": "won"
+    },
+    {
+      "request": 13,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 14,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 15,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 16,
+      "skill_was": "A",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 17,
+      "skill_was": "A",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 18,
+      "skill_was": "A",
+      "pick": "A",
+      "result": "won"
+    },
+    {
+      "request": 19,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    },
+    {
+      "request": 20,
+      "skill_was": "B",
+      "pick": "tie",
+      "result": "tie"
+    }
+  ]
+}

@@ -54,10 +54,10 @@ Six requests make a small sample, so a blind test followed.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/blind-test-dark.svg">
-  <img alt="Blind test of 20 requests: the skill won 8, tied 11 and lost 1" src="assets/blind-test-light.svg" width="100%">
+  <img alt="Blind test of 20 requests. The author: skill won 8, tied 12, lost 0. The AI judge: won 8, tied 11, lost 1" src="assets/blind-test-light.svg" width="100%">
 </picture>
 
-Twenty new requests, the same two runs, but judged blind: each pair was shuffled into A and B, and a separate AI agent picked the better one before the key was applied. **The skill won 8, tied 11 and lost 1.** The loss, a WhatsApp to a boss that came out too casual, is the next fix. Every output, the blind pairs, the key and the judge's reasons are in [`tests/blind-20/`](tests/blind-20/).
+Twenty new requests, the same two runs, judged blind twice with each pair shuffled into A and B: by the author, a native KL speaker, and by a separate AI judge. **The author: the skill won 8, tied 12, lost 0. The AI judge: won 8, tied 11, lost 1.** They agreed on 12 of 20; the AI's one loss, a WhatsApp to a boss, is a reply the author would send. Every output, the blind pairs, the key and both sets of verdicts are in [`tests/blind-20/`](tests/blind-20/).
 
 Run your own before you trust it, and open an issue with what you find.
 
@@ -70,7 +70,7 @@ Run your own before you trust it, and open an issue with what you find.
 | `references/baku.md` | DBP grammar: sentence patterns, hukum D-M, active/passive, affixes, prepositions (`dari`/`daripada`), common errors, spelling, Malaysian vs Indonesian vocabulary, letter and email conventions. About 80 DBP rulings are cited by keyword and date. |
 | `references/basahan.md` | Particles (`la, kan, ke, je, pun, kot, pulak, tau…`) with meaning and position, short forms, pronouns by relationship, code-switching, slang, regional markers, tone ladders. §8a has measured norms from about 12,000 real adult chat messages. |
 | `references/malay-ai-tells.md` | The Malay humanizer: structural tells in their Malay form, translation artefacts, Indonesian leakage, register mismatch, fake-basahan overcorrection, and a final checklist. |
-| `tests/blind-20/` | The 20-request blind test: the requests, both runs, the shuffled pairs, the key and the judge's verdicts. |
+| `tests/blind-20/` | The 20-request blind test: the requests, both runs, the shuffled pairs, the key, and the verdicts of both judges. |
 
 ## Install
 
