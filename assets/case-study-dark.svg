@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Same model, same request: a customer complaint reply without and with the skill">
-<rect width="1200" height="470" rx="20" fill="#0e1413"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="473" viewBox="0 0 1200 473" role="img" aria-label="Same model, same request: a customer complaint reply without and with the skill">
+<rect width="1200" height="473" rx="20" fill="#0e1413"/>
 <text x="56" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#5ccfc4" text-anchor="start">SAME MODEL, SAME REQUEST</text>
-<text x="56" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="650" fill="#e6ecea" text-anchor="start">Customer: “Order saya 5 hari tak sampai lagi. Ni scam ke?”</text>
-<rect x="56" y="136" width="532" height="179" rx="16" fill="none" stroke="#25302e"/>
-<rect x="56" y="136" width="532" height="179" rx="16" fill="#161f1e"/>
-<text x="74" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#97a4a1" text-anchor="start">WITHOUT THE SKILL</text>
-<text x="74" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">Salam, maaf sangat atas kelewatan ni. Bukan</text>
-<text x="74" y="219" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">scam ya. Saya dah semak tracking, parcel</text>
-<text x="74" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">tersangkut di hub Pos Laju Shah Alam.</text>
-<text x="74" y="269" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">Dijangka sampai esok. Kalau esok masih tak</text>
-<text x="74" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">sampai, saya refund caj pos tu.</text>
-<rect x="612" y="136" width="532" height="154" rx="16" fill="none" stroke="#5ccfc4" stroke-width="2"/>
-<rect x="612" y="136" width="532" height="154" rx="16" fill="#161f1e"/>
-<text x="630" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#5ccfc4" text-anchor="start">WITH THE SKILL</text>
-<text x="630" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">Maaf cik, bukan scam ye. Saya dah check,</text>
-<text x="630" y="219" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">parcel cik tersangkut kat hub Pos Laju</text>
-<text x="630" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">Shah Alam. Sepatutnya esok sampai. Kalau</text>
-<text x="630" y="269" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#e6ecea" text-anchor="start">esok tak sampai juga, saya refund kos pos.</text>
-<text x="56" y="355" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#ff8f85" text-anchor="start">✕  “Dijangka sampai esok”: notice-board passive</text>
-<text x="612" y="355" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#5ccfc4" text-anchor="start">✓  Talks to the customer: “cik”</text>
-<text x="56" y="385" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#ff8f85" text-anchor="start">✕  “di hub”, “semak”: written Malay, not chat</text>
-<text x="612" y="385" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#5ccfc4" text-anchor="start">✓  Chat wording: “kat”, “check”, “sepatutnya”</text>
+<text x="56" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="650" fill="#e6ecea" text-anchor="start">Customer: “Order saya 5 hari tak sampai lagi. Ni scam ke?”</text>
+<rect x="56" y="140" width="532" height="219" rx="16" fill="none" stroke="#25302e"/>
+<rect x="56" y="140" width="532" height="219" rx="16" fill="#161f1e"/>
+<text x="78" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#97a4a1" text-anchor="start">WITHOUT THE SKILL</text>
+<text x="78" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">Salam, maaf sangat atas kelewatan ni. Bukan</text>
+<text x="78" y="241" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">scam ya. Saya dah semak tracking, parcel</text>
+<text x="78" y="272" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">tersangkut di hub Pos Laju Shah Alam.</text>
+<text x="78" y="303" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">Dijangka sampai esok. Kalau esok masih tak</text>
+<text x="78" y="334" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">sampai, saya refund caj pos tu.</text>
+<rect x="612" y="140" width="532" height="188" rx="16" fill="none" stroke="#5ccfc4" stroke-width="2"/>
+<rect x="612" y="140" width="532" height="188" rx="16" fill="#161f1e"/>
+<text x="634" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#5ccfc4" text-anchor="start">WITH THE SKILL</text>
+<text x="634" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">Maaf cik, bukan scam ye. Saya dah check,</text>
+<text x="634" y="241" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">parcel cik tersangkut kat hub Pos Laju</text>
+<text x="634" y="272" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">Shah Alam. Sepatutnya esok sampai. Kalau</text>
+<text x="634" y="303" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6ecea" text-anchor="start">esok tak sampai juga, saya refund kos pos.</text>
+<text x="56" y="403" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#ff8f85" text-anchor="start">✕  “Dijangka sampai esok”: notice-board passive</text>
+<text x="612" y="403" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#5ccfc4" text-anchor="start">✓  Talks to the customer: “cik”</text>
+<text x="56" y="437" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#ff8f85" text-anchor="start">✕  “di hub”, “semak”: written Malay, not chat</text>
+<text x="612" y="437" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#5ccfc4" text-anchor="start">✓  Chat wording: “kat”, “check”, “sepatutnya”</text>
 </svg>

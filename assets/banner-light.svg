@@ -4,14 +4,14 @@
 <text x="64" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="750" fill="#16201f" text-anchor="start">bahasa-melayu</text>
 <text x="64" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#16201f" text-anchor="start">Malay that sounds like a Malaysian wrote it.</text>
 <text x="64" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#5f6b68" text-anchor="start">Baku (DBP)  ·  Pasar  ·  Malay humanizer</text>
-<rect x="640" y="48" width="496" height="104" rx="16" fill="#f3eeee"/>
-<text x="658" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#a8322a" text-anchor="start">TYPICAL AI</text>
-<text x="1118" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#a8322a" text-anchor="end">✕</text>
-<text x="658" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#5f6b68" text-anchor="start">Kami memohon maaf atas sebarang kesulitan</text>
-<text x="658" y="131" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#5f6b68" text-anchor="start">yang dialami. Pesanan anda dijangka tiba esok.</text>
-<rect x="640" y="168" width="496" height="104" rx="16" fill="#e3f2f0"/>
-<text x="658" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0b6b66" text-anchor="start">WITH THE SKILL</text>
-<text x="1118" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b6b66" text-anchor="end">✓</text>
-<text x="658" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#16201f" text-anchor="start">Maaf cik, saya dah check. Parcel tersangkut</text>
-<text x="658" y="251" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#16201f" text-anchor="start">kat hub, esok sampai ye.</text>
+<rect x="640" y="48" width="496" height="119" rx="16" fill="#f3eeee"/>
+<text x="662" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#a8322a" text-anchor="start">TYPICAL AI</text>
+<text x="1114" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#a8322a" text-anchor="end">✕</text>
+<text x="662" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#5f6b68" text-anchor="start">Kami memohon maaf atas sebarang kesulitan</text>
+<text x="662" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#5f6b68" text-anchor="start">yang dialami. Pesanan anda dijangka tiba esok.</text>
+<rect x="640" y="183" width="496" height="119" rx="16" fill="#e3f2f0"/>
+<text x="662" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b6b66" text-anchor="start">WITH THE SKILL</text>
+<text x="1114" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b6b66" text-anchor="end">✓</text>
+<text x="662" y="250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#16201f" text-anchor="start">Maaf cik, saya dah check. Parcel tersangkut</text>
+<text x="662" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#16201f" text-anchor="start">kat hub, esok sampai ye.</text>
 </svg>
