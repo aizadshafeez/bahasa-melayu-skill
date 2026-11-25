@@ -1,3 +1,5 @@
 # Personal voice profile stays local
 voice.md
 .DS_Store
+launch/
+__pycache__/

@@ -69,3 +69,7 @@ SOFTWARE.
 
 - **Dewan Bahasa dan Pustaka, PRPM Khidmat Nasihat** (prpm.dbp.gov.my): rulings are cited by keyword and date and paraphrased. Only short set phrases are quoted, such as the letter formulas and short example corrections.
 - **MalayPrag** (arXiv:2605.28782) and the other academic works listed in `references/basahan.md`, cited for their findings.
+
+## Fonts in the README images
+
+The SVGs in `assets/` embed **Cairo** (Copyright 2009 The Cairo Project Authors) and **Instrument Serif** (Copyright 2022 The Instrument Serif Project Authors), both under the SIL Open Font License 1.1. The font files and their licences are in `assets/fonts/`.

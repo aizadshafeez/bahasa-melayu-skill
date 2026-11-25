@@ -48,7 +48,18 @@ The outputs below are unedited. The verdicts are the author's, a native KL speak
 | 5 | Friends' group: futsal Thursday 9pm, RM10 each | Geng, futsal Khamis ni pukul 9 malam. Court dah book kat Kelana Jaya. RM10 sorang. Siapa join? Tulis nama 👇 | Weh, futsal Khamis ni 9 malam. Aku dah book court kat Kelana Jaya, RM10 sorang. Siapa on? | Tie: the version without the skill is arguably better |
 | 6 | Landing page: "Track your expenses in seconds. No spreadsheets, no stress." | Rekod perbelanjaan anda dalam beberapa saat. Tiada spreadsheet, tiada tekanan. | Catat perbelanjaan dalam beberapa saat. Tak perlu spreadsheet, tak perlu pening kepala. | **Skill.** It uses a natural Malay idiom instead of copying the English parallel |
 
-Six requests make a small sample. Run your own before you trust it, and open an issue with what you find.
+Six requests make a small sample, so a blind test followed.
+
+### Blind test: 20 more requests
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/blind-test-dark.svg">
+  <img alt="Blind test of 20 requests: the skill won 8, tied 11 and lost 1" src="assets/blind-test-light.svg" width="100%">
+</picture>
+
+Twenty new requests, the same two runs, but judged blind: each pair was shuffled into A and B, and a separate AI agent picked the better one before the key was applied. **The skill won 8, tied 11 and lost 1.** The loss, a WhatsApp to a boss that came out too casual, is the next fix. Every output, the blind pairs, the key and the judge's reasons are in [`tests/blind-20/`](tests/blind-20/).
+
+Run your own before you trust it, and open an issue with what you find.
 
 ## What's inside
 
@@ -59,6 +70,7 @@ Six requests make a small sample. Run your own before you trust it, and open an 
 | `references/baku.md` | DBP grammar: sentence patterns, hukum D-M, active/passive, affixes, prepositions (`dari`/`daripada`), common errors, spelling, Malaysian vs Indonesian vocabulary, letter and email conventions. About 80 DBP rulings are cited by keyword and date. |
 | `references/basahan.md` | Particles (`la, kan, ke, je, pun, kot, pulak, tau…`) with meaning and position, short forms, pronouns by relationship, code-switching, slang, regional markers, tone ladders. §8a has measured norms from about 12,000 real adult chat messages. |
 | `references/malay-ai-tells.md` | The Malay humanizer: structural tells in their Malay form, translation artefacts, Indonesian leakage, register mismatch, fake-basahan overcorrection, and a final checklist. |
+| `tests/blind-20/` | The 20-request blind test: the requests, both runs, the shuffled pairs, the key and the judge's verdicts. |
 
 ## Install
 
