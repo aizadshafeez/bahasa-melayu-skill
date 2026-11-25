@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="bahasa-melayu: Malay that sounds like a Malaysian wrote it" src="assets/banner-light.svg" width="100%">
+</picture>
+
 # bahasa-melayu
 
 An agent skill (Claude Code, Codex and any tool that reads `SKILL.md`) that writes **natural Malaysian Malay** in the right register, then checks it for the habits that make AI Malay sound like AI.
@@ -19,6 +24,32 @@ Language models write Malay that is grammatical but obviously not human:
 
 Some Indonesian leaks are offensive in Malaysia (`butuh`, `gampang`). As of November 2026 no public skill covered both registers with a Malay-specific humanizer pass.
 
+## Case study: same model, with and without the skill
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/case-study-dark.svg">
+  <img alt="A customer complaint reply written without and with the skill" src="assets/case-study-light.svg" width="100%">
+</picture>
+
+**Method.** On 25 Nov 2026 we gave Claude Opus 5.5 the same six everyday requests twice:
+- once with no skill and no style hints
+- once with this skill
+
+The outputs below are unedited. The verdicts are the author's, a native KL speaker.
+
+**Result: the skill was better in 4 of 6 cases and tied in 2. It was never worse.** Modern models already write decent casual Malay. The skill fixes register slips: formal phrasing in customer chats, letter formulas in email, and English sentence shapes in translations.
+
+| # | Request | Without the skill | With the skill | Verdict |
+|---|---|---|---|---|
+| 1 | WhatsApp to wife: leaving in 10 min, will buy diapers | Belum lagi sayang. Lagi 10 minit abang keluar ofis. Nanti abang singgah farmasi beli lampin ye. | Belum yang, lagi 10 minit abang keluar office. Nanti abang singgah farmasi beli lampin ye | Tie: both natural |
+| 2 | Hobby-shop DM: "Boss, kit ni ada lagi? Boleh pos ke Kuching?" | Ada lagi boss, tinggal 2 unit je. Boleh pos ke Kuching, caj pos ke Sarawak RM15. Barang saya pos hari bekerja berikutnya. | Salam boss, kit ni ada lagi, tinggal 2 je. Boleh pos ke Kuching, kos pos ke Sarawak RM15. Lepas bayar, saya pos next working day ya 😊 | **Skill.** "hari bekerja berikutnya" reads like a notice; the skill uses a seller's opener and close |
+| 3 | Complaint: "Order saya 5 hari tak sampai lagi. Ni scam ke?" | Salam, maaf sangat atas kelewatan ni. Bukan scam ya. Saya dah semak tracking, parcel tersangkut di hub Pos Laju Shah Alam. Dijangka sampai esok. Kalau esok masih tak sampai, saya refund caj pos tu. | Maaf cik, bukan scam ye. Saya dah check, parcel cik tersangkut kat hub Pos Laju Shah Alam. Sepatutnya esok sampai. Kalau esok tak sampai juga, saya refund kos pos. | **Skill.** It addresses the customer, and "Dijangka sampai esok" was a notice-board passive |
+| 4 | Email to manager: work from home on Friday | Two greetings ("Assalamualaikum dan salam sejahtera"), a Title Case subject, and the letter sign-off "Yang benar" | "Salam Puan Rosmah", a sentence-case subject with the actual date, "Salam hormat" | **Skill.** A modern office email, not a letter pasted into an email |
+| 5 | Friends' group: futsal Thursday 9pm, RM10 each | Geng, futsal Khamis ni pukul 9 malam. Court dah book kat Kelana Jaya. RM10 sorang. Siapa join? Tulis nama 👇 | Weh, futsal Khamis ni 9 malam. Aku dah book court kat Kelana Jaya, RM10 sorang. Siapa on? | Tie: the version without the skill is arguably better |
+| 6 | Landing page: "Track your expenses in seconds. No spreadsheets, no stress." | Rekod perbelanjaan anda dalam beberapa saat. Tiada spreadsheet, tiada tekanan. | Catat perbelanjaan dalam beberapa saat. Tak perlu spreadsheet, tak perlu pening kepala. | **Skill.** It uses a natural Malay idiom instead of copying the English parallel |
+
+Six requests make a small sample. Run your own before you trust it, and open an issue with what you find.
+
 ## What's inside
 
 | File | What it holds |
@@ -34,7 +65,7 @@ Some Indonesian leaks are offensive in Malaysia (`butuh`, `gampang`). As of Nove
 **Claude Code**
 
 ```bash
-git clone https://github.com/aizad1125/bahasa-melayu-skill ~/.claude/skills/bahasa-melayu
+git clone https://github.com/aizadshafeez/bahasa-melayu-skill ~/.claude/skills/bahasa-melayu
 ```
 
 **Codex / other agents:** clone it into your agent's skills folder (e.g. `~/.agents/skills/bahasa-melayu`).
