@@ -268,7 +268,7 @@ Redundancy DBP flags: `pelbagai jenis barang` → `pelbagai barang`, since `pelb
 | seutas | chain, rope | seutas rantai |
 | sebentuk | ring | sebentuk cincin |
 
-DBP: not every noun has one, so don't force it [KN:penjodoh bilangan 11.04.2020]. In pasar, `satu` replaces most of them ("beli satu kereta").
+DBP: not every noun has one, so don't force it [KN:penjodoh bilangan 11.04.2020]. In basahan, `satu` replaces most of them ("beli satu kereta").
 
 ### 8.3 Kata ganda
 - Penuh: `buku-buku`, `cantik-cantik belaka` [KN:penggandaan jamak]

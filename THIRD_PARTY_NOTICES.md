@@ -68,4 +68,4 @@ SOFTWARE.
 ## Other sources
 
 - **Dewan Bahasa dan Pustaka, PRPM Khidmat Nasihat** (prpm.dbp.gov.my): rulings are cited by keyword and date and paraphrased. Only short set phrases are quoted, such as the letter formulas and short example corrections.
-- **MalayPrag** (arXiv:2605.28782) and the other academic works listed in `references/pasar.md`, cited for their findings.
+- **MalayPrag** (arXiv:2605.28782) and the other academic works listed in `references/basahan.md`, cited for their findings.

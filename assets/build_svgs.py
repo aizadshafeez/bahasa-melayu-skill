@@ -38,7 +38,7 @@ def banner(t):
          text(64, 96, "AGENT SKILL  ·  MIT", 14, t["accent"], 700),
          text(64, 160, "bahasa-melayu", 58, t["ink"], 750),
          text(64, 206, "Malay that sounds like a Malaysian wrote it.", 22, t["ink"]),
-         text(64, 244, "Baku (DBP)  ·  Pasar  ·  Malay humanizer", 16, t["muted"])]
+         text(64, 244, "Baku (DBP)  ·  Basahan  ·  Malay humanizer", 16, t["muted"])]
     b1, h1 = bubble(640, 48, 496, ["Kami memohon maaf atas sebarang kesulitan", "yang dialami. Pesanan anda dijangka tiba esok."],
                     t["bad"], t["muted"], size=18, lh=27, label="TYPICAL AI", labelfill=t["badmark"], mark="✕")
     b2, _ = bubble(640, 48 + h1 + 16, 496, ["Maaf cik, saya dah check. Parcel tersangkut", "kat hub, esok sampai ye."],

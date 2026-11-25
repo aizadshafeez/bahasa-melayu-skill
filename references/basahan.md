@@ -1,4 +1,6 @@
-# Bahasa Pasar — Everyday Malaysian Malay (KL/Selangor default)
+# Bahasa Basahan: Everyday Malaysian Malay (KL/Selangor default)
+
+*Bahasa basahan* is everyday colloquial Malay. It is not *bahasa pasar*, which is the pidgin Malay that grew between Malay and non-native speakers.
 
 The Malay Malaysians actually type in WhatsApp, Telegram, IG and Threads, and speak at home, at the mamak and in the office pantry. DBP treats this register as non-standard, so most rules here come from linguistics and native usage. Explanations are in English; examples are in Malay.
 
@@ -119,7 +121,7 @@ Density guide [NK]:
 
 ## 3. Simplified grammar
 
-| Baku | Pasar | What changed |
+| Baku | Basahan | What changed |
 |---|---|---|
 | Dia sedang makan. | Dia tengah makan. | `tengah` for `sedang` |
 | Saya sudah siap. | Aku dah siap. | pronoun + `dah` |

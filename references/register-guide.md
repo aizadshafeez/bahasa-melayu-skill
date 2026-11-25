@@ -2,7 +2,7 @@
 
 Pick the register **before** writing. Most "machine Malay" comes from the wrong register (baku in a WhatsApp, `anda` to a spouse), not from grammar mistakes.
 
-Sources: the register ladder and pronoun ladder in [pasar.md](pasar.md) and [baku.md](baku.md). Letter conventions are DBP PRPM Khidmat Nasihat rulings (cited in baku.md §11). UI defaults come from the i18nstack `localize-ms` skill (MIT). Everything else is native-speaker judgement [NK]: no published source maps situations to registers for Malaysian Malay.
+Sources: the register ladder and pronoun ladder in [basahan.md](basahan.md) and [baku.md](baku.md). Letter conventions are DBP PRPM Khidmat Nasihat rulings (cited in baku.md §11). UI defaults come from the i18nstack `localize-ms` skill (MIT). Everything else is native-speaker judgement [NK]: no published source maps situations to registers for Malaysian Malay.
 
 ## Register scale
 
@@ -49,6 +49,7 @@ Sources: the register ladder and pronoun ladder in [pasar.md](pasar.md) and [bak
 8. **Customer service in Malaysia is warm, not formal.** `ye`, `sis`, an emoji and a quick answer beat `Terima kasih kerana menghubungi kami. Pertanyaan anda amat dihargai.`
 9. **Code-switching follows the setting.** Office topics (meeting, deadline, slide) pull English in, even in Malay messages. Family, food, feelings and religion pull Malay in.
 10. **Spelling follows register.** R1–R2: perfect baku. R3: full words plus `tak/dah/nak/je/tu/ni`. R4: whatever the person types (`x`, `yg`, `dh`, `2` reduplication).
+11. **Complaints: calm it down first.** Open with an apology and the fix you're taking on, give a date, and offer a choice where you can. Never open by correcting the customer, defending yourself or quoting policy, even when the customer is at fault. State any fact about the customer's side neutrally (`courier tak jumpa nombor unit`), never as blame (`alamat cik tak lengkap`).
 
 ## Worked scenarios
 
@@ -60,6 +61,16 @@ Sources: the register ladder and pronoun ladder in [pasar.md](pasar.md) and [bak
 **2. Late delivery complaint (R3, more careful).** Customer: `Dah seminggu tak sampai ni.`
 - ✗ `Kami memohon maaf atas sebarang kesulitan yang dialami. Pihak kami akan menyiasat perkara ini dengan segera.`
 - ✓ `Maaf sangat cik, saya dah check, parcel tersangkut kat hub Shah Alam. Saya dah follow up dengan courier, InsyaAllah sampai lusa. Kalau tak sampai juga, saya hantar ganti ye.`
+
+**2a. Angry customer, scam accusation (R3, de-escalate).** Customer: `Dah 2 minggu tak sampai!! Korang ni scam ke hah? Saya report polis nanti.`
+- ✗ `Bukan scam ye cik. Parcel dah dipos, cik boleh semak tracking sendiri.` (argues first, hands the work back)
+- ✓ `Maaf sangat cik, dua minggu memang lama, saya faham cik risau. Saya dah check, parcel cik masih tersangkut kat hub Pos Laju Shah Alam, dan saya dah buat aduan dengan Pos Laju hari ni. Kalau tak sampai sebelum Jumaat, saya hantar ganti atau refund penuh, ikut mana cik nak. Esok pagi saya update cik ye 🙏`
+- The action answers the accusation; the reply never says `bukan scam`.
+
+**2b. Customer at fault, still no blame (R3, de-escalate).** The address had no unit number and the parcel came back. Customer: `Kenapa parcel saya return?? Courier korang bodoh ke?`
+- ✗ `Untuk makluman, alamat yang cik berikan tidak lengkap.`
+- ✓ `Maaf cik, parcel cik dipulangkan sebab courier tak jumpa nombor unit rumah. Saya nak pastikan kali ni sampai terus: boleh cik bagi alamat penuh dengan nombor unit? Esok saya pos semula.`
+- The fact is stated about the courier's trip, not the customer's mistake. Who pays the second postage is the seller's call, not a language rule.
 
 **3. Boss on WhatsApp (R3 careful).** Boss: `Report Q3 dah siap?`
 - ✗ `Ya, laporan suku ketiga telah disiapkan dan akan dihantar sebentar lagi.` (too stiff)

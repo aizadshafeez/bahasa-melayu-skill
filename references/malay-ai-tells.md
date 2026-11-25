@@ -118,7 +118,7 @@ After:
 
 ---
 
-## E. Fake-pasar tells (overcorrection)
+## E. Fake-basahan tells (overcorrection)
 
 When Claude tries to sound casual, it often overshoots [MP shows LLMs misjudge ke/kan/none more than half the time; the rest NK]:
 
@@ -145,4 +145,5 @@ When Claude tries to sound casual, it often overshoots [MP shows LLMs misjudge k
 5. Check register: any `tidak/sahaja/sudah/tersebut` in R3–R4, or any `x/yg/weh/la` in R1–R2?
 6. Scan for Indonesian (`bisa`, `butuh`, `aja`, `nggak`, `banget`, `gimana`, `sih`).
 7. Particles: at most one per short sentence; check every `ke` vs `kan`.
+7a. Complaint reply: does the first line apologise and take on the fix, with no defence, correction or policy?
 8. Read it aloud as a KL native. Would a real person send this? If it sounds like a Berita Harian press release in a family chat, rewrite.

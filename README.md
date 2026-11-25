@@ -10,7 +10,7 @@ An agent skill (Claude Code, Codex and any tool that reads `SKILL.md`) that writ
 It covers both registers Malaysians actually use:
 
 - **Bahasa baku** follows Dewan Bahasa dan Pustaka (DBP) rulings. Use it for letters, formal email, CVs, reports and UI text.
-- **Bahasa pasar** is everyday Malay. Use it for WhatsApp, customer DMs, captions, and chat with family and friends.
+- **Bahasa basahan** is everyday Malay. Use it for WhatsApp, customer DMs, captions, and chat with family and friends.
 
 ## Why
 
@@ -57,8 +57,8 @@ Six requests make a small sample. Run your own before you trust it, and open an 
 | `SKILL.md` | The workflow: pick the register, fix the pronouns, think in Malay, draft, run a two-layer humanizer pass, read it aloud. |
 | `references/register-guide.md` | Situation → register (R1 official → R4 close friends), with pronouns, particles, code-switching, spelling, and 9 worked scenarios. |
 | `references/baku.md` | DBP grammar: sentence patterns, hukum D-M, active/passive, affixes, prepositions (`dari`/`daripada`), common errors, spelling, Malaysian vs Indonesian vocabulary, letter and email conventions. About 80 DBP rulings are cited by keyword and date. |
-| `references/pasar.md` | Particles (`la, kan, ke, je, pun, kot, pulak, tau…`) with meaning and position, short forms, pronouns by relationship, code-switching, slang, regional markers, tone ladders. §8a has measured norms from about 12,000 real adult chat messages. |
-| `references/malay-ai-tells.md` | The Malay humanizer: structural tells in their Malay form, translation artefacts, Indonesian leakage, register mismatch, fake-pasar overcorrection, and a final checklist. |
+| `references/basahan.md` | Particles (`la, kan, ke, je, pun, kot, pulak, tau…`) with meaning and position, short forms, pronouns by relationship, code-switching, slang, regional markers, tone ladders. §8a has measured norms from about 12,000 real adult chat messages. |
+| `references/malay-ai-tells.md` | The Malay humanizer: structural tells in their Malay form, translation artefacts, Indonesian leakage, register mismatch, fake-basahan overcorrection, and a final checklist. |
 
 ## Install
 
@@ -87,7 +87,7 @@ Every rule is tagged with where it came from:
 
 A few findings differ from school textbooks. DBP accepts `sangat … sekali`. It allows `adalah` before an adjective phrase. And a 2013 ruling says `justeru` does not mean `oleh itu`.
 
-Most of the pasar material is native judgement, because DBP treats colloquial Malay as non-standard and academic work covers only a few particles. It was reviewed by a native KL speaker. Corrections are very welcome.
+Most of the basahan material is native judgement, because DBP treats colloquial Malay as non-standard and academic work covers only a few particles. It was reviewed by a native KL speaker. Corrections are very welcome.
 
 Not affiliated with or endorsed by Dewan Bahasa dan Pustaka.
 
@@ -107,9 +107,9 @@ Material was taken and corrected from two MIT-licensed skills: [`dbp-translator-
 
 ## Ringkasan (BM)
 
-Skill ini membantu AI menulis Bahasa Melayu Malaysia yang bunyinya macam orang betul-betul tulis: baku untuk surat dan e-mel rasmi, pasar untuk WhatsApp dan media sosial. Lepas tu ia semak tulisan tu supaya tak bunyi macam terjemahan mesin atau bahasa Indonesia.
+Skill ini membantu AI menulis Bahasa Melayu Malaysia yang bunyinya macam orang betul-betul tulis: baku untuk surat dan e-mel rasmi, basahan untuk WhatsApp dan media sosial. Lepas tu ia semak tulisan tu supaya tak bunyi macam terjemahan mesin atau bahasa Indonesia.
 
-Peraturan baku merujuk Khidmat Nasihat DBP. Bahagian pasar pula disemak oleh penutur asli dari KL. Kalau ada yang tak kena, buka issue ye.
+Peraturan baku merujuk Khidmat Nasihat DBP. Bahagian basahan pula disemak oleh penutur asli dari KL. Kalau ada yang tak kena, buka issue ye.
 
 ## License
 
